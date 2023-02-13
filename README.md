@@ -1,8 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-
-<img src="https://camo.githubusercontent.com/5e471e99e8e022c…8747470733a2f2f76657263656c2e636f6d2f627574746f6e" alt="Deply with Vercel" data-canonical-src="https://letzwrk.com" style="max-width: 100%;">
+## [![LetzWrk.com](https://vercel.com/button)](https://www.letzwrk.com)
 
 First, run the development server:
 
