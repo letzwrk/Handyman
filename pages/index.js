@@ -38,7 +38,8 @@ export default function Home() {
             </a>
           </div>
         </div>
-
+        
+<Footer>
         <div className={styles.center}>
           <Image
             className={styles.logo}
@@ -58,6 +59,7 @@ export default function Home() {
             />
           </div>
         </div>
+</Footer>
 
         <div className={styles.grid}>
           <a
@@ -67,7 +69,8 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docs <span>-&gt;</span>
+              electrical 
+              <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Find in-depth information about Next.js features and&nbsp;API.
