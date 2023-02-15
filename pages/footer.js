@@ -15,6 +15,7 @@ export default function Footer () {
             height={37}
             priority
           />
+          
           <div className={styles.thirteen}>
             <Image
               src="/thirteen.svg"
