@@ -72,7 +72,6 @@ export default function Home() {
           </a>
         </div>
         
-<Footer>
         <div className={styles.center}>
           <Image
             className={styles.logo}
@@ -110,7 +109,6 @@ export default function Home() {
             </a>
           </div>
 
-          </Footer>
       </main>
     </>
   )
