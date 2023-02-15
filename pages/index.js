@@ -62,7 +62,7 @@ export default function Home() {
           </a>
 
           <a
-            href="Assembly"
+            href="#assembly"
             className={styles.card}
           >
             <h2 className={inter.className}>
