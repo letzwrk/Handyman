@@ -18,19 +18,17 @@ export default function Home() {
       <main className={styles.main}>
 
         <div className={styles.description}>
-          <p>
-            Call , text with details for quote
-            <a href="tel:+15128090129">1 (512) 809-0129 </a>
-          </p>
+          <p><a href="tel:+15128090129">Call , text with details for quote
+            1 (512) 809-0129 </a></p>
         </div>
 
-        <p>I have consitently recieved praise for my low rates , prompt service and quality job being done.</p>
-        <p>I would love to do the same for you</p>
+        <p className={inter.className}>I consitently recieved praise for my low rates , prompt service and the quality of my work.</p>
 
-        <div className={styles.grid}>
-          <a href="#electrical"
-            className={styles.card}
-          >
+        <p className={inter.className}>I would love to do the same for you</p>
+
+      <div className={styles.grid}>
+
+          <a href="#electrical" className={styles.card}>
             <h2 className={inter.className}>
              Electrical <span>-&gt;</span>
             </h2>
@@ -39,9 +37,7 @@ export default function Home() {
             </p>
           </a>
 
-          <a href="#plumbing"
-            className={styles.card}
-          >
+          <a href="#plumbing" className={styles.card}>
             <h2 className={inter.className}>
               Minor Plumbing <span>-&gt;</span>
             </h2>
@@ -50,9 +46,7 @@ export default function Home() {
             </p>
           </a>
 
-          <a  href="#mounting"
-            className={styles.card}
-          >
+          <a href="#mounting" className={styles.card}>
             <h2 className={inter.className}>
               Mounting <span>-&gt;</span>
             </h2>
@@ -61,10 +55,7 @@ export default function Home() {
             </p>
           </a>
 
-          <a
-            href="#assembly"
-            className={styles.card}
-          >
+          <a href="#assembly" className={styles.card}>
             <h2 className={inter.className}>
               Assembly <span>-&gt;</span>
             </h2>
@@ -72,7 +63,8 @@ export default function Home() {
               Furniture, PlayScapes, Mechanical...
             </p>
           </a>
-        </div>
+
+      </div>
         
 
       </main>
