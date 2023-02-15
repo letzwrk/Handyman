@@ -17,8 +17,8 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by calling or texting&nbsp;
-            <code className={styles.code}>1 (512) 809-0129</code>
+            Call , text with details for quote
+            <a href="tel:+15128090129">1 (512) 809-0129 </a>
           </p>
 
         </div>
