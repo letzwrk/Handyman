@@ -14,18 +14,18 @@ export default function Home() {
         <meta name="description" content="Handyman in Austin, Texas" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
+
       <main className={styles.main}>
+
         <div className={styles.description}>
           <p>
             Call , text with details for quote
             <a href="tel:+15128090129">1 (512) 809-0129 </a>
           </p>
-
         </div>
 
         <div className={styles.grid}>
-          <a
-            href="https://letzwrk.com/electrical"
+          <a href="https://letzwrk.com/electrical"
             className={styles.card}
           >
             <h2 className={inter.className}>
@@ -36,8 +36,7 @@ export default function Home() {
             </p>
           </a>
 
-          <a
-            href="https://letzwrk.com/plumbing"
+          <a href="#plumbing"
             className={styles.card}
           >
             <h2 className={inter.className}>
