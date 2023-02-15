@@ -24,6 +24,9 @@ export default function Home() {
           </p>
         </div>
 
+        <p>I have consitently recieved praise for my low rates , prompt service and quality job being done.</p>
+        <p>I would love to do the same for you</p>
+
         <div className={styles.grid}>
           <a href="#electrical"
             className={styles.card}
@@ -47,7 +50,7 @@ export default function Home() {
             </p>
           </a>
 
-          <a href="#mounting"
+          <a  href="#mounting"
             className={styles.card}
           >
             <h2 className={inter.className}>
