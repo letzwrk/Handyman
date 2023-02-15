@@ -25,7 +25,7 @@ export default function Home() {
         </div>
 
         <div className={styles.grid}>
-          <a href="https://letzwrk.com/electrical"
+          <a href="#electrical"
             className={styles.card}
           >
             <h2 className={inter.className}>
@@ -47,8 +47,7 @@ export default function Home() {
             </p>
           </a>
 
-          <a
-            href="https://letzwrk.com/Mounting"
+          <a href="#mounting"
             className={styles.card}
           >
             <h2 className={inter.className}>
