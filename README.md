@@ -2,15 +2,15 @@ Welcome to the repository of LetzWrk.com
 
 Click to enter Site
 
-## [![LetzWrk.com](https://vercel.com/button)](https://www.letzwrk.com) 
+## [![LetzWrk.com](https://vercel.com/button)](https://www.letzwrk.com) - Click to enter site
 
 
-## Learn to launch your own Next.JS site !
+## Launch your own Next.JS site !
 
 in the terminal of your choice 
-with nvm && npm && node installed 
+with nvm & npm & node installed 
 
-enter one of the commands listed below 
+enter one of the commands listed below, 
 depending on your OS 
 
 ```bash
