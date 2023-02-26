@@ -42,7 +42,7 @@ export default function Home() {
               Plumbing <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Minor Plumbing is my forte
+              Floats & Valves , Garbage Disposals, Sinks, Faucets
             </p>
           </a>
 
