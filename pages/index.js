@@ -22,9 +22,9 @@ export default function Home() {
             1 (512) 809-0129 </a></p>
         </div>
 
-        <p className={inter.className}>I consitently receive praise for my low rates , prompt service and the quality of my work.</p>
+        <p className={inter.className}>I consitently receive praise for my low rates , prompt service and the quality of my work</p>
 
-        <p className={inter.className}>and I would love to do the same for you</p>
+        <p className={inter.className}>and I would love to produce the same for you</p>
 
       <div className={styles.grid}>
 
