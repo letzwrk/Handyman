@@ -82,7 +82,7 @@
 html,
 body {
   max-width: 100vw;
- /* overflow-x: hidden; */ trying to remove double scroll 
+ /* overflow-x: hidden; trying to remove double scroll */
 }
 
 body {
