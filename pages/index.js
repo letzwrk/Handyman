@@ -18,13 +18,13 @@ export default function Home() {
       <main className={styles.main}>
 
         <div className={styles.description}>
-          <p><a href="tel:+15128090129">Call , text with details for quote
+          <p><a href="tel:+15128090129">Call or text with for a quote on your project
             1 (512) 809-0129 </a></p>
         </div>
 
-        <p className={inter.className}>I consitently recieved praise for my low rates , prompt service and the quality of my work.</p>
+        <p className={inter.className}>I consitently received praise for my low rates , prompt service and the quality of my work.</p>
 
-        <p className={inter.className}>I would love to do the same for you</p>
+        <p className={inter.className}>and I would love to do the same for you</p>
 
       <div className={styles.grid}>
 
