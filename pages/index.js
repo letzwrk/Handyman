@@ -18,7 +18,7 @@ export default function Home() {
       <main className={styles.main}>
 
         <div className={styles.description}>
-          <p><a href="tel:+15128090129">Call , text with details for quote
+          <p><a href="tel:+15128090129">Call , text for a quote
             1 (512) 809-0129 </a></p>
         </div>
 
@@ -30,38 +30,27 @@ export default function Home() {
 
           <a href="#electrical" className={styles.card}>
             <h2 className={inter.className}>
-             Electrical <span>-&gt;</span>
+            Minor Electrical <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
-            Minor Electrical is my forte
-            </p>
           </a>
 
           <a href="#plumbing" className={styles.card}>
             <h2 className={inter.className}>
               Minor Plumbing <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
-              Minor Plumbing is my forte
-            </p>
           </a>
 
           <a href="#mounting" className={styles.card}>
             <h2 className={inter.className}>
               Mounting <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
-              TVs , Shelves, Art
-            </p>
           </a>
 
           <a href="#assembly" className={styles.card}>
             <h2 className={inter.className}>
               Assembly <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
-              Furniture, PlayScapes, Mechanical...
-            </p>
+            
           </a>
 
       </div>
